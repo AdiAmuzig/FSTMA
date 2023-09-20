@@ -1,0 +1,12 @@
+name: fstma-project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - matplotlib
+  - jupyterlab
+  - tqdm
+  - ipywidgets
+  - pip
+  - scipy
